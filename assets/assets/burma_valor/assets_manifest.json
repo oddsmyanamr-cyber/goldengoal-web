@@ -1,0 +1,30 @@
+{
+  "gameId": "burma-valor",
+  "version": "2.1",
+  "grid": { "reels": 5, "rows": 3 },
+  "symbols": {
+    "COCK": "assets/images/symbols/cock.png",
+    "BULLOCK": "assets/images/symbols/bullock.png",
+    "COINS": "assets/images/symbols/coins_kyat.png",
+    "ELEPHANT": "assets/images/symbols/elephant.png",
+    "TIGER": "assets/images/symbols/tiger.png",
+    "LION": "assets/images/symbols/lion.png",
+    "NAGA": "assets/images/symbols/naga_statue.png",
+    "PEACOCK": "assets/images/symbols/peacock.png"
+  },
+  "vfx": {
+    "kaNetSpark": "assets/images/vfx/heritage_ka_net_spark.png",
+    "bigWinOverlay": "assets/images/vfx/big_win_overlay.png",
+    "jackpotNaga": "assets/images/vfx/jackpot_naga_active.png"
+  },
+  "audio": {
+    "win": "assets/audio/sound_win.wav",
+    "spin": "assets/audio/sound_spin_active.wav",
+    "bigWin": "assets/audio/sound_big_win.wav",
+    "jackpot": "assets/audio/sound_jackpot_reveal.wav"
+  },
+  "celebrations": {
+    "bigWinMultiplier": 50,
+    "jackpotMultiplier": 500
+  }
+}
