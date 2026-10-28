@@ -116306,7 +116306,7 @@ r.toString
 A.qk(s,s,!1,s,new A.aNm(),r,s,!0,t.H)
 return!1},
 atw(a){var s
-A:{if("burma-valor"===a){s=B.agk
+A:{if("burma-valor"===a||"golden-reels"===a){s=B.agk
 break A}if("fish-hunter"===a){s=B.Wi
 break A}if("shan-koe-mee"===a){s=B.agf
 break A}s=null
